@@ -1,2 +1,3 @@
 # naosei - Aula de Introdução a lógica e programação
-ihwdsfhiodwfiowdfkbhjwdfbjkçdfnjbdvwdfjoajodfçwjodfwowdfjobfwbjkfwdbjksdcnmlxm,. ,m.xzm,.xzçljsougas8q127w10
+ihwdsfhiodwfiowdfkbhjwdfbjkçdfnjbdvwdfjoajodfçwjodf
+loren ipsu aula sobre git e também github
